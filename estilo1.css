@@ -1,0 +1,29 @@
+body{
+       
+    font-size: 12pt;
+    font-family:"arial";    
+   }
+   
+   h1{
+    color: red;
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+    margin-top: 70px;           
+    }
+
+    .textonegrito{
+        font-weight: bold;
+    }
+
+    .textosublinhado{
+        text-decoration: underline;
+    }
+
+    .textovermelho{
+    color: red;
+    }
+    
+    .textoverde{
+    color:rgb(152, 247, 9)
+    }
